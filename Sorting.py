@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 25 15:41:49 2018
 
-@author: user
+@author: Kaiqi Zheng
 """
 
 # return the ascending sorint list
