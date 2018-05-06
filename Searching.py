@@ -2,7 +2,7 @@
 """
 Created on Wed May  2 01:02:53 2018
 
-@author: user
+@author: Kaiqi Zheng
 """
 
 def findNumber(arr,k):
