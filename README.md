@@ -1,2 +1,2 @@
 # algorithms
-Python
+Gathering some Python algorithms
